@@ -1,0 +1,68 @@
+.div1{
+    text-align: center;
+    font-size: 60px;
+    color: black;
+    margin-left: 230px;
+    margin-right: 230px;
+    font-family: 'Marck Script', cursive;
+}
+
+input[type=text]{
+    text-align: center;
+    width: 60%;
+    align-items: center;
+    background:pink;
+    padding: 10px;
+    box-sizing: border-box;
+    display: grid;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'marck Script', cursive;
+    font-size: larger;
+justify-content: center;
+margin-bottom: 10px;
+}
+.button {
+    transition-duration: 0.4s;
+  }
+  
+.button:hover {
+    background-color: pink; 
+    color: pink;
+  }
+
+ul li {
+    padding: auto;
+    list-style: none;
+    font-size: 70px;
+    font-family: 'Marck Script', cursive;
+}
+ 
+  #background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+
+  #addButton{
+    color: rgb(252, 176, 189);
+    width: 30%;
+    margin-left: 500px;
+    
+   padding: 5px;
+   font-size: large;
+   font-family: 'marck script', cursive;
+   
+  }
+  p{
+    text-align: center;
+    font-family: 'marck script';
+    font-size: xx-large;
+    margin-top: -70px;
+  }
